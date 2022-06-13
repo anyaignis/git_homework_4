@@ -1,0 +1,2 @@
+ID,Summary,Steps for reproduce,Actual result,Expected result,Severity
+1,При выборе языка Armenian в Regional Settings пропадают названия разделов в каталоге,1) В футере нажать кнопку Regional Settings                                                                                                                             2) В разделе Language выбрать Armenian,"Не отображаются названия разделов в каталоге (в футере, хедере и боковом меню)",Названия разделов в каталоге отображаются,
