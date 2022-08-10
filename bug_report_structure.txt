@@ -1,9 +1,0 @@
-ID:
-Summary:
-Steps_for_reproduce:
-Actual_result:
-Expected_result:
-Version:
-Environment:
-Severity:
-Priority:
